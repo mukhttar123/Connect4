@@ -85,7 +85,7 @@ body {
 }
 
 .tombol-music{
-    position: absolute;
+    position: fixed;
     bottom: 0;
     right: 20px;
     width: 100px;
